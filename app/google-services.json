@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "718798241257",
+    "firebase_url": "https://chatkotlin-ddbea-default-rtdb.firebaseio.com",
+    "project_id": "chatkotlin-ddbea",
+    "storage_bucket": "chatkotlin-ddbea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718798241257:android:729cb6035d5f8f4b085f78",
+        "android_client_info": {
+          "package_name": "com.example.chatexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2PkD_GDckFq5Y6aF8enhuSOi8AIKkli0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
